@@ -1,0 +1,109 @@
+[20-Apr-2025 16:35:56 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[20-Apr-2025 16:36:02 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[21-Apr-2025 04:36:55 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[21-Apr-2025 05:53:07 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[21-Apr-2025 06:34:04 America/Chicago] PHP Warning:  Undefined variable $pdo in /home/bsituccc/alpha.gl/member/calorie_counter.php on line 78
+[21-Apr-2025 06:34:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bsituccc/alpha.gl/member/calorie_counter.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/bsituccc/alpha.gl/member/calorie_counter.php on line 78
+[21-Apr-2025 06:34:07 America/Chicago] PHP Warning:  Undefined variable $pdo in /home/bsituccc/alpha.gl/member/calorie_counter.php on line 78
+[21-Apr-2025 06:34:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bsituccc/alpha.gl/member/calorie_counter.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/bsituccc/alpha.gl/member/calorie_counter.php on line 78
+[21-Apr-2025 06:34:11 America/Chicago] PHP Warning:  Undefined variable $pdo in /home/bsituccc/alpha.gl/member/calorie_counter.php on line 78
+[21-Apr-2025 06:34:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bsituccc/alpha.gl/member/calorie_counter.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/bsituccc/alpha.gl/member/calorie_counter.php on line 78
+[21-Apr-2025 06:41:35 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[21-Apr-2025 06:42:31 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[21-Apr-2025 06:49:24 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[21-Apr-2025 06:55:54 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[21-Apr-2025 06:59:13 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[21-Apr-2025 07:00:22 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[21-Apr-2025 07:00:29 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[21-Apr-2025 07:07:38 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[21-Apr-2025 07:07:50 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[21-Apr-2025 07:44:03 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[21-Apr-2025 07:48:26 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[21-Apr-2025 07:50:02 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[21-Apr-2025 07:57:32 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[21-Apr-2025 07:57:32 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[21-Apr-2025 07:57:32 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[21-Apr-2025 07:57:32 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[21-Apr-2025 07:57:32 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[21-Apr-2025 07:57:32 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[21-Apr-2025 07:57:32 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[21-Apr-2025 07:57:32 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[21-Apr-2025 07:57:32 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[21-Apr-2025 07:57:32 America/Chicago] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 152
+[21-Apr-2025 07:57:32 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[21-Apr-2025 07:57:32 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[21-Apr-2025 07:57:32 America/Chicago] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 152
+[21-Apr-2025 07:57:32 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[21-Apr-2025 07:57:32 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[22-Apr-2025 05:04:19 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[22-Apr-2025 05:06:05 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[22-Apr-2025 05:06:05 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[22-Apr-2025 05:06:05 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[22-Apr-2025 05:06:05 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[22-Apr-2025 05:06:05 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[22-Apr-2025 05:06:05 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[22-Apr-2025 05:06:05 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[22-Apr-2025 05:06:05 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[22-Apr-2025 05:06:05 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[22-Apr-2025 05:06:05 America/Chicago] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 152
+[22-Apr-2025 05:06:05 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[22-Apr-2025 05:06:05 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[22-Apr-2025 05:06:05 America/Chicago] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 152
+[22-Apr-2025 05:06:05 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[22-Apr-2025 05:06:05 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[22-Apr-2025 05:06:16 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[23-Apr-2025 10:46:51 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[23-Apr-2025 20:30:45 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[23-Apr-2025 20:31:50 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[23-Apr-2025 23:14:24 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[23-Apr-2025 23:17:54 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[23-Apr-2025 23:22:19 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[23-Apr-2025 23:22:28 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[23-Apr-2025 23:22:28 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[23-Apr-2025 23:22:28 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[23-Apr-2025 23:22:28 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[23-Apr-2025 23:22:28 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[23-Apr-2025 23:22:28 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[23-Apr-2025 23:22:28 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[23-Apr-2025 23:22:28 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[23-Apr-2025 23:22:28 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[23-Apr-2025 23:22:28 America/Chicago] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 152
+[23-Apr-2025 23:22:28 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[23-Apr-2025 23:22:28 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[23-Apr-2025 23:22:28 America/Chicago] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 152
+[23-Apr-2025 23:22:28 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[23-Apr-2025 23:22:28 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[24-Apr-2025 08:15:03 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[24-Apr-2025 11:18:13 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[24-Apr-2025 11:18:45 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[24-Apr-2025 15:23:45 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[25-Apr-2025 03:07:09 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[25-Apr-2025 03:08:25 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[25-Apr-2025 03:08:25 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[25-Apr-2025 03:08:25 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[25-Apr-2025 03:08:25 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[25-Apr-2025 03:08:25 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[25-Apr-2025 03:08:25 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[25-Apr-2025 03:08:25 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[25-Apr-2025 03:08:25 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[25-Apr-2025 03:08:25 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[25-Apr-2025 03:08:25 America/Chicago] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 152
+[25-Apr-2025 03:08:25 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[25-Apr-2025 03:08:25 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[25-Apr-2025 03:08:25 America/Chicago] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 152
+[25-Apr-2025 03:08:25 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[25-Apr-2025 03:08:25 America/Chicago] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/bsituccc/alpha.gl/member/food_history.php on line 154
+[25-Apr-2025 03:10:39 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[25-Apr-2025 03:12:35 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[25-Apr-2025 03:12:53 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[25-Apr-2025 03:13:21 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
+[25-Apr-2025 04:05:02 America/Chicago] PHP Warning:  Undefined array key "price" in /home/bsituccc/alpha.gl/member/index.php on line 345
