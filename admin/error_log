@@ -1,0 +1,62 @@
+[20-Apr-2025 16:31:53 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/bsituccc/alpha.gl/database/connection.php:13
+Stack trace:
+#0 /home/bsituccc/alpha.gl/database/connection.php(13): mysqli_connect()
+#1 /home/bsituccc/alpha.gl/admin/bookingadmin.php(2): include('/home/bsituccc/...')
+#2 {main}
+  thrown in /home/bsituccc/alpha.gl/database/connection.php on line 13
+[20-Apr-2025 16:31:55 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/bsituccc/alpha.gl/database/connection.php:13
+Stack trace:
+#0 /home/bsituccc/alpha.gl/database/connection.php(13): mysqli_connect()
+#1 /home/bsituccc/alpha.gl/admin/bookingadmin.php(2): include('/home/bsituccc/...')
+#2 {main}
+  thrown in /home/bsituccc/alpha.gl/database/connection.php on line 13
+[21-Apr-2025 02:28:56 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[21-Apr-2025 02:28:56 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[21-Apr-2025 02:28:56 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[21-Apr-2025 02:28:56 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[21-Apr-2025 02:28:56 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[21-Apr-2025 02:28:56 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[21-Apr-2025 02:28:56 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[21-Apr-2025 02:28:56 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[21-Apr-2025 02:28:56 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[21-Apr-2025 02:28:56 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[21-Apr-2025 06:08:28 America/Chicago] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/bsituccc/alpha.gl/admin/sales.php:48
+Stack trace:
+#0 /home/bsituccc/alpha.gl/admin/sales.php(48): number_format()
+#1 {main}
+  thrown in /home/bsituccc/alpha.gl/admin/sales.php on line 48
+[21-Apr-2025 06:08:38 America/Chicago] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/bsituccc/alpha.gl/admin/sales.php:48
+Stack trace:
+#0 /home/bsituccc/alpha.gl/admin/sales.php(48): number_format()
+#1 {main}
+  thrown in /home/bsituccc/alpha.gl/admin/sales.php on line 48
+[22-Apr-2025 05:06:53 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[22-Apr-2025 05:06:53 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[22-Apr-2025 05:06:53 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[22-Apr-2025 05:06:53 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[22-Apr-2025 05:06:53 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[22-Apr-2025 05:06:53 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[22-Apr-2025 05:06:53 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[22-Apr-2025 05:06:53 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[22-Apr-2025 05:06:53 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[22-Apr-2025 05:06:53 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[23-Apr-2025 12:01:40 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[23-Apr-2025 12:01:40 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[23-Apr-2025 12:01:40 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[23-Apr-2025 12:01:40 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[23-Apr-2025 12:01:40 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[23-Apr-2025 12:01:40 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[23-Apr-2025 12:01:40 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[23-Apr-2025 12:01:40 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[23-Apr-2025 12:01:40 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[23-Apr-2025 12:01:40 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[24-Apr-2025 12:19:32 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[24-Apr-2025 12:19:32 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[24-Apr-2025 12:19:32 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[24-Apr-2025 12:19:32 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[24-Apr-2025 12:19:32 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[24-Apr-2025 12:19:32 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[24-Apr-2025 12:19:32 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[24-Apr-2025 12:19:32 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[24-Apr-2025 12:19:32 America/Chicago] PHP Warning:  Undefined variable $package in /home/bsituccc/alpha.gl/admin/products.php on line 147
+[24-Apr-2025 12:19:32 America/Chicago] PHP Warning:  Trying to access array offset on null in /home/bsituccc/alpha.gl/admin/products.php on line 147

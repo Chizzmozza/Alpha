@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    overflow-x: hidden; /* Prevents horizontal scrolling */
+}
+
+
+/* Sidebar Styling */
+.sidebar {
+    height: 100vh;
+    width: 250px;
+    background: #A6D1E6; /* Black-Blue-Black Gradient */
+    color: white;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+/* Sidebar Links */
+.sidebar a {
+  font-weight: bold;
+    color: black;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+}
+
+.sidebar a.active, .sidebar a:hover {
+    background-color: #4a78a6;
+}
+
+/* Main Content Adjusting to Sidebar */
+.main-content {
+    margin-left: 250px; /* Push main content to the right */
+    padding: 20px;
+}
+
+/* Adjusting content so it doesn't overlap with sidebar */
+.content {
+    margin-left: 250px;
+    padding: 20px;
+    width: calc(100% - 250px);
+}
+
+/* Dashboard Cards */
+.dashboard-card {
+    background-color: #4a78a6; /* Card background color */
+    color: #fff; /* Text color to ensure contrast */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+}
+
+.dashboard-card:hover {
+    background-color: #3c6a88; /* Slightly darker color on hover */
+}
+
+.dashboard-card i {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.dashboard-card h5 {
+    margin-bottom: 10px;
+}
+
+.dashboard-card h3 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+
+/* Icon Colors */
+.icon-blue { color: #2f86eb; }
+.icon-green { color: #2db82d; }
+.icon-red { color: #eb3c3c; }
+.icon-yellow { color: #f2b900; }
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.table-wrapper {
+    width: 70%;
+}
+
+.btn-group {
+    display: flex;
+    gap: 5px; /* Adds spacing between icons */
+}
