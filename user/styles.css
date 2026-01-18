@@ -1,0 +1,221 @@
+/* ========================
+   General Styles
+   ======================== */
+.login-modal-bg {
+  background: url("../pictures/bg.png") center/cover no-repeat;
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.join-btn, .enroll-btn, .btn-primary {
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-weight: bold;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.join-btn:hover, .btn-primary:hover {
+  background-color: #0e86d4;
+  color: white !important;
+}
+
+/* ========================
+   Landing Page Styles
+   ======================== */
+.landing-page {
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.landing-text {
+  background: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  color: #4a78a6;
+  text-align: left;
+}
+
+.landing-text h2, .landing-text h3 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #4a78a6;
+}
+
+.landing-text p {
+  color: #1B2232;
+  font-size: 1.3rem;
+}
+.landing-text .btn {
+  align-self: center; /* Centers only the button */
+  margin-top: 20px; /* Adds some space above the button */
+}
+
+/* ========================
+   Membership Section
+   ======================== */
+   .membership-section {
+     background: linear-gradient(to bottom, #dcele7, #fffbc);
+     color: white;
+     text-align: center;
+     padding: 80px 20px;
+   }
+
+   .membership-section h3 {
+     color: #4a78a6 ;
+   }
+
+   .membership-card {
+     width: 300px;
+     height: 300px;
+     perspective: 1000px;
+     cursor: pointer;
+   }
+
+   .membership-card-inner {
+     width: 100%;
+     height: 100%;
+     position: relative;
+     transform-style: preserve-3d;
+     transition: transform 0.6s ease-in-out;
+   }
+
+   .membership-card:hover .membership-card-inner {
+     transform: rotateY(180deg);
+   }
+
+   .membership-card-front,
+   .membership-card-back {
+     width: 100%;
+     height: 100%;
+     position: absolute;
+     border-radius: 15px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     font-weight: bold;
+     background: #4a78a6   !important;
+     color: white;
+   }
+
+   .membership-card-back {
+     transform: rotateY(180deg);
+     backface-visibility: hidden;
+     flex-direction: column;
+     font-size: 1.5rem;
+   }
+
+   .membership-card-back p {
+     margin: 5px 0;
+   }
+
+/* ========================
+   Products Section
+   ======================== */
+.products {
+  background-color: #A6D1E6 ;
+  color: white;
+  padding: 80px 20px;
+}
+
+.products .p-4 {
+  background-color: white;
+  color: #4a78a6;
+}
+/* ========================
+   Courses Section
+   ======================== */
+.courses .course-card {
+  border: none !important;
+}
+
+/* ========================
+   Animations & Effects
+   ======================== */
+@keyframes slideFromLeft {
+  from { transform: translateX(-100%); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
+@keyframes slideFromRight {
+  from { transform: translateX(100%); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
+.animate-left {
+  animation: slideFromLeft 1.5s ease-out forwards;
+}
+
+.animate-right {
+  animation: slideFromRight 1.5s ease-out forwards;
+  animation-delay: 0.5s;
+}
+
+/* ========================
+   Responsive Styles
+   ======================== */
+@media (max-width: 768px) {
+  .landing-text h2, .landing-text h3, .mission-vision h3 {
+    font-size: 2rem;
+  }
+  .landing-text p {
+    font-size: 1.2rem;
+  }
+  .join-btn, .enroll-btn, .btn-primary {
+    padding: 8px 16px;
+  }
+}
+
+#calendar {
+  max-width: 100%;
+  margin: 0 auto;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.fc-toolbar-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.fc-daygrid-day.fc-day-today {
+  background-color: #eaf7ff !important;
+  border-radius: 10px;
+}
+
+.fc-event {
+  background-color: #4c84ff !important;
+  border: none !important;
+  border-radius: 30px !important;
+  font-size: 0.75rem;
+  padding: 3px 8px;
+  color: white;
+  font-weight: 500;
+  position: relative;
+  z-index: 2;
+}
+
+.fc-event:hover {
+  cursor: pointer;
+  opacity: 0.9;
+}
+
+input, select {
+  background-color: #ffffff !important;
+  border: 1px solid #ddd !important;
+}
+
+input:focus, select:focus {
+  box-shadow: 0 0 0 0.15rem rgba(100, 149, 237, 0.25) !important;
+}
+
+.btn-primary {
+  background-color: #4c84ff;
+  border-color: #4c84ff;
+}
+
+.btn-primary:hover {
+  background-color: #3b73e5;
+  border-color: #3b73e5;
+}
