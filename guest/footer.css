@@ -1,0 +1,66 @@
+/* Footer Styles */
+footer {
+    background: #4a78a6; /* Dark gray background */
+    color: white;
+    padding: 40px 0;
+    font-size: 16px;
+}
+
+footer h6 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+footer a {
+    color: white;
+    transition: color 0.3s ease-in-out;
+}
+
+footer a:hover {
+    color: #FFD95F; /* Matches button color */
+    text-decoration: underline;
+}
+
+/* Logo Styling */
+footer img {
+    max-width: 120px;
+    border: 3px solid white; /* Subtle border around logo */
+    padding: 5px;
+}
+
+/* Footer Links Styling */
+footer ul {
+    padding-left: 0;
+}
+
+footer ul li {
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+footer ul li a {
+    text-decoration: none;
+    font-weight: 500;
+}
+
+/* Contact Information Styling */
+footer p {
+    margin: 0;
+    font-weight: 500;
+}
+
+/* Social Media Icons */
+footer .bi {
+    font-size: 20px;
+    margin-right: 8px;
+}
+
+/* Copyright Section */
+.footer-bottom {
+    text-align: center;
+    background: #444; /* Slightly darker background for copyright section */
+    padding: 10px 0;
+    font-size: 14px;
+}
